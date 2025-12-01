@@ -1,2 +1,2 @@
 # United-Nations-M49
-The M49 Standard is explored with Python. Standard country or area codes for statistical use (M49) prepared by the Statistics Division of the United Nations Secretariat primarily for use in its publications and databases.
+The M49 Standard is explored with Python. The standard country or area codes for statistical use (M49) are prepared by the Statistics Division of the United Nations Secretariat primarily for use in its publications and databases.
